@@ -10,7 +10,7 @@
 
 ## 在线文件
 
-- [阅读编译后的 PDF](self_reference_handout.pdf)
+[阅读编译后的 PDF](哥德尔不完备性定理.pdf)
 - [查看 LaTeX 源码](self_reference_handout.tex)
 
 ## 编译方法

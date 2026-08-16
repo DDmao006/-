@@ -8,9 +8,12 @@
 - 第一、第二不完备性定理
 - 三者共有的“编号／内化—自我作用—反转”结构
 
-## LaTeX 源码
+## 在线文件
 
-主文件：[self_reference_handout.tex](self_reference_handout.tex)
+- [阅读编译后的 PDF](self_reference_handout.pdf)
+- [查看 LaTeX 源码](self_reference_handout.tex)
+
+## 编译方法
 
 源码可以直接上传至 Overleaf，并将编译器设置为 **XeLaTeX**。在标准 TeX Live 环境中，也可以运行：
 
